@@ -24,6 +24,7 @@ html, body {
     width: 320px;
     height:auto;
     box-shadow: 5px 5px 5px rgb(194, 184, 184);
+    text-align:center;
     
     
 }
@@ -51,6 +52,7 @@ img {
     font-size: 15px;
     line-height: 140%;
     letter-spacing: 0.2px;
+    padding:20px;
 }
 .attribution {
     display: hidden;
